@@ -1,1 +1,1 @@
-MEDIA_UPLOAD_PATH = "mediafiles/articles/"
+MEDIA_UPLOAD_PATH = "medixafiles/articles/"
